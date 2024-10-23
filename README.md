@@ -6,6 +6,9 @@ user-friendly web applications that not only look great but also provide a fanta
 
 🛠 Tech Stack
 Languages: HTML, CSS, JavaScript, Python
+
 Frameworks: React, Bootstrap
+
 Database: SQL
+
 Tools: VS Code, Git, Github
