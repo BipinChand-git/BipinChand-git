@@ -13,4 +13,4 @@ Frameworks: React, Bootstrap
 
 Database: SQL
 
-Tools: VS Code, Git, Github
+Tools: Webpack, Git, Github, NPM
