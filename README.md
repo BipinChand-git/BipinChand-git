@@ -1,16 +1,22 @@
-Hi there 👋, I'm Bipin Chand
+# 👋 Hey there! I'm [Bipin Chand]
 
-👨‍💻 About Me
+I’m a final-year **BTech Computer Science Engineering** student with a passion for **front-end web development**, but I’ve also dived into backend technologies to understand the **full-stack workflow**. My focus remains on creating **intuitive, user-friendly web applications**, ensuring both aesthetics and functionality work seamlessly together.
 
-I’m a final-year BTech CSE student with a focus on front-end web development. I have a passion for crafting seamless, 
-user-friendly web applications that not only look great but also provide a fantastic user experience.
+## 🚀 What I Do
+- 🎨 **Front-End Development:** Proficient in front-end techonolgies like HTML, CSS, Javascript and Angular.
+- 🔗 **Full-Stack Exploration:** Built REST APIs using Express.js and MongoDB for data persistence.
+- 🛠 **Unit Testing:** Leveraging Jest for ensuring reliable and bug-free applications.
+- 🧩 **UI/UX Optimization:** Passionate about crafting engaging user experiences.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
+### 💡 Current Expertise:
+- **Front-End:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap. 
+- **Back-End:** Node.js, Express.js, MongoDB, SQL 
+- **Testing:** Jest  
+- **Tools:** Git, Webpack, NPM. 
 
-Languages: HTML, CSS, JavaScript, Python
+## 🤝 Let's Connect!
+Find me on **[LinkedIn](www.linkedin.com/in/bipin-chand87) **  
 
-Frameworks: React, Bootstrap
-
-Database: SQL
-
-Tools: Webpack, Git, Github, NPM
+---
+🚀 Always learning, always building and getting better!
