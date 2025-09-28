@@ -1,4 +1,4 @@
-# 👨‍💻 Bipin Chand
+<h1>👋 Hello, I'm <strong>Bipin Chand</strong></h1>
 
 ## Frontend Developer | BTech CSE Graduate
 
