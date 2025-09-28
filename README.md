@@ -1,7 +1,4 @@
-<h1 align="">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hey there! I'm Bipin Chand
-</h1>
+# 👨‍💻 Bipin Chand
 
 ## Frontend Developer | BTech CSE Graduate
 
@@ -13,7 +10,7 @@ Frontend Developer Intern at **Kudoshub Technologies** with a strong foundation 
 ## 🎯 My Journey
 - 🏢 **Currently:** Frontend Developer Intern at **Kudoshub Technologies**
 - 🎓 **Recently:** Graduated with BTech in Computer Science Engineering
-- 🚀 **Focus:** Angular development & modern web technologies
+- 🚀 **Focus:** Frontend development specializing in Angular, with hands-on Next.js/React project experience
 - 🌱 **Learning:** Full-stack development patterns
 
 ## 🛠️ My Arsenal
@@ -47,6 +44,6 @@ Frontend Developer Intern at **Kudoshub Technologies** with a strong foundation 
 
 ## 🔗 Professional Networks
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-chand87)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](bipinchand616@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bipinchand616@gmail.com)
 ---
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
