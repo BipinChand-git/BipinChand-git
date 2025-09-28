@@ -3,7 +3,7 @@
   Hey there! I'm Bipin Chand
 </h1>
 
-## Frontend Developer Intern | BTech CSE Graduate
+## Frontend Developer | BTech CSE Graduate
 
 > Passionate about creating intuitive, user-friendly web applications that blend aesthetics with functionality.
 
